@@ -6,7 +6,7 @@
 
 It is used by [GeekPark](http://geekpark.net)
 
-Live demo: http://vms.ericjj.com/
+Current version: https://github.com/GeekPark/gpk_admin
 
 Contact: github@ericjj.com
 
