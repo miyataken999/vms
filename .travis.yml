@@ -1,4 +1,4 @@
-language: node_js
+language: node_jsh
 node_js:
   - "6"
 services:
